@@ -1,0 +1,16 @@
+import
+
+-input_file_path
+data/sample-data.zip
+
+-input_compressed
+true
+
+-output_collections
+data,data/people
+
+-output_permissions
+${app-role},read,${app-role},update
+
+-output_uri_replace
+".*\.zip,''"

@@ -1,0 +1,101 @@
+stockId,symbol,stockName
+1,CFMS,"ConforMIS, Inc."
+2,BOE,Blackrock Global
+3,SHIPW,Seanergy Maritime Holdings Corp
+4,CONE,CyrusOne Inc
+5,REN           ,Resolute Energy Corporation
+6,ORRF,Orrstown Financial Services Inc
+7,JYNT,The Joint Corp.
+8,MS,Morgan Stanley
+9,NAC,Nuveen California Quality Municipal Income Fund
+10,CEVA,"CEVA, Inc."
+11,SWX,"Southwest Gas Holdings, Inc."
+12,NVG,Nuveen AMT-Free Municipal Credit Income Fund
+13,LAND,Gladstone Land Corporation
+14,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.
+15,DTK,Deutsche Bank AG
+16,DTEA,DAVIDsTEA Inc.
+17,AVDL,Avadel Pharmaceuticals plc
+18,H,Hyatt Hotels Corporation
+19,SITO,"SITO Mobile, Ltd."
+20,QTWO,"Q2 Holdings, Inc."
+21,MSBF,MSB Financial Corp.
+22,SPXX,Nuveen S&P 500 Dynamic Overwrite Fund
+23,NYMTO,"New York Mortgage Trust, Inc."
+24,KAI,Kadant Inc
+25,FRSX,Foresight Autonomous Holdings Ltd.
+26,AEH,Aegon NV
+27,TRVG,trivago N.V.
+28,BATRK,Liberty Media Corporation
+29,AKTX,Akari Therapeutics Plc
+30,CAA,"CalAtlantic Group, Inc."
+31,GNBC,"Green Bancorp, Inc."
+32,ADMA,ADMA Biologics Inc
+33,MIND,"Mitcham Industries, Inc."
+34,STAG^B,"Stag Industrial, Inc."
+35,BLRX,BioLineRx Ltd.
+36,TVIA,"TerraVia Holdings, Inc."
+37,DWTR,PowerShares DWA Tactical Sector Rotation Portfolio
+38,BXP^B,"Boston Properties, Inc."
+39,MPA,Blackrock MuniYield Pennsylvania Quality Fund
+40,TRCH,"Torchlight Energy Resources, Inc."
+41,TOWN,Towne Bank
+42,OCIP,OCI Partners LP
+43,MKL,Markel Corporation
+44,MCRN,Milacron Holdings Corp.
+45,HTHT,"China Lodging Group, Limited"
+46,IRIX,IRIDEX Corporation
+47,USB^H,U.S. Bancorp
+48,AETI,"American Electric Technologies, Inc."
+49,UMH^B,"UMH Properties, Inc."
+50,SLD,Sutherland Asset Management Corporation
+51,BOKFL,BOK Financial Corporation
+52,FORD,"Forward Industries, Inc."
+53,CBAY,CymaBay Therapeutics Inc.
+54,KMX,CarMax Inc
+55,WPG^H,Washington Prime Group Inc.
+56,C.WS.A,Citigroup Inc.
+57,NEWR,"New Relic, Inc."
+58,TUTT,Tuttle Tactical Management U.S. Core ETF
+59,BX,The Blackstone Group L.P.
+60,MNDO,MIND C.T.I. Ltd.
+61,WINS,Wins Finance Holdings Inc.
+62,REG^G,Regency Centers Corporation
+63,WBMD,WebMD Health Corp
+64,REVG,"REV Group, Inc."
+65,ACGLP,Arch Capital Group Ltd.
+66,SRRA,"Sierra Oncology, Inc."
+67,EMMS,Emmis Communications Corporation
+68,RDN,Radian Group Inc.
+69,HDS,"HD Supply Holdings, Inc."
+70,PSX,Phillips 66
+71,PL^E,Protective Life Corporation
+72,full_name,"Rightside Group, Ltd."
+73,CXRX,Concordia International Corp.
+74,LND,Brasilagro Cia Brasileira De Propriedades Agricolas
+75,EXPO,"Exponent, Inc."
+76,TWI,"Titan International, Inc."
+77,GLMD,Galmed Pharmaceuticals Ltd.
+78,IGF,iShares Global Infrastructure ETF
+79,DGI,"DigitalGlobe, Inc"
+80,WAT,Waters Corporation
+81,DTYL,iPath US Treasury 10-year Bull ETN
+82,MARPS,Marine Petroleum Trust
+83,C^L,Citigroup Inc.
+84,ANY,Sphere 3D Corp.
+85,TWNK,"Hostess Brands, Inc."
+86,NAT,Nordic American Tankers Limited
+87,STWD,"STARWOOD PROPERTY TRUST, INC."
+88,DGX,Quest Diagnostics Incorporated
+89,NTX,Nuveen Texas Quality Municipal Income Fund
+90,CVGI,"Commercial Vehicle Group, Inc."
+91,FFG,"FBL Financial Group, Inc."
+92,FHCO,Female Health Company (The)
+93,POPE,Pope Resources
+94,CSGP,"CoStar Group, Inc."
+95,IRBT,iRobot Corporation
+96,DFFN,Diffusion Pharmaceuticals Inc.
+97,MTX,Minerals Technologies Inc.
+98,ETFC,E*TRADE Financial Corporation
+99,NVUS,"Novus Therapeutics, Inc."
+100,MS^E,Morgan Stanley
